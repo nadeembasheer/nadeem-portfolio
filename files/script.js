@@ -1,6 +1,6 @@
 
 var typed = new Typed(".text", {
-    strings: ["Programming" , "Cybersecurity" , "Web Desigining"],
+    strings: ["IT Support" , "Desktop Support" , "VAPT Testing"],
     typeSpeed:100,
     backSpeed:100,
     backDelay:1000,
@@ -17,3 +17,4 @@ window.addEventListener("scroll",() =>{
         toTop.classList.remove("active");
     }
 })
+
